@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,I'm molly.
 
-<!--
-**is-molly/is-molly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Web/Devops/Linux/Shell.
+- 📫 How to reach me: polaris424@foxmail.com
+- 😄 Read more about my website: [here](http://monap.cn/)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-molly&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=is-molly&show_icons=true&theme=transparent)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/is-molly/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
